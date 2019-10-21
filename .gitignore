@@ -24,4 +24,4 @@ yarn-error.log*
 *.sw?
 
 src/firebase/firebase.js
-src/env/env.example.js
+src/env/env.js
