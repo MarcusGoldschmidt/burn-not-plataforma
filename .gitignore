@@ -22,3 +22,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+src/firebase/firebase.js
+src/env/env.example.js
